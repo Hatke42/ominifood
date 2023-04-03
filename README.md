@@ -1,5 +1,5 @@
 # ominifood
-it's fully responsive website that will use ai to suggest dishes
+It's fully responsive website that will use ai to suggest dishes 
 
 ##
 demo website
